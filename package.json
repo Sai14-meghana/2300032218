@@ -17,6 +17,10 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
+<<<<<<< HEAD
+=======
+    "@vitejs/plugin-react-swc": "^3.11.0",
+>>>>>>> 610d8a33149c7aafb1f7c08255395932778e402e
     "gh-pages": "^6.3.0",
     "vite": "^4.0.0"
   }
